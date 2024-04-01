@@ -13,7 +13,7 @@
 
     @apply select-none;
 
-    @apply bg-transparent;
+    @apply bg-black bg-opacity-50;
 
     @apply font-mono antialiased text-white;
 
